@@ -14,7 +14,7 @@ Genalice solutions process NGS datasets through read alignment and variant calli
 # Preprint
 This work has been published as a preprint.
 
-__Validation of an ultra-fast CNV calling tool for Next Generation Sequencing data using MLPA-verified copy number alterations.__ Bas Tolhuis and Hans Karten, bioRXive. doi:...
+__Validation of an ultra-fast CNV calling tool for Next Generation Sequencing data using MLPA-verified copy number alterations.__ Bas Tolhuis and Hans Karten, bioRXive. [doi:10.1101/340505](https://www.biorxiv.org/content/early/2018/06/06/340505)
 
 # Quick links
 * [Materials](Materials.md)
