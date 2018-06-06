@@ -4,15 +4,6 @@
 #   prepare GRF and GRI prior to mapping
 #------------------------------------------------------------------------------
 # reference assemblies
-ref37=references/GRCh37.p13.genome.fa
-alt37=references/GRCh37.p13.genome.alt
-ref38=references/GCA_000001405.15_GRCh38_full_plus_hs38d1_analysis_set.fa
-#!/bin/bash
-# reference.sh
-# bas.tolhuis@genalice.com
-#   prepare GRF and GRI prior to mapping
-#------------------------------------------------------------------------------
-# reference assemblies
 assembly=GRCh37.p13.genome
 fasta=references/$assembly.fa
 altfile=references/G$assembly.alt
