@@ -1,0 +1,8 @@
+{
+  "inputFiles": [
+    {
+      "inputFile1": "http://ga001-sti-05/public/ICR96/fastq/_EGAR00001545978_17380_R1.fastq.gz",
+      "inputFile2": "http://ga001-sti-05/public/ICR96/fastq/_EGAR00001545978_17380_R2.fastq.gz"
+    }
+  ]
+}
